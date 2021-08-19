@@ -1,63 +1,18 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>ഡാ {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+ഞാൻ നിങ്ങളുടെ പുതിയ മലയാളം മാഷ് ആണ് പേര് രവി പദ്മനാഭൻ 🔥⚡
 
-See <i>/help</i> for commands and more details.</b>
+പിന്നെ എന്നെ നിനക്ക് നിൻ്റെ ഗ്രൂപ്പിൽ ചേർക്കാൻ പറ്റില്ല
+എന്ന സ്ഥലം വിട്ടോ മക്കളെ
 """
 
 
-    HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+    
 
 
-<b>Basic Commands;</b>
+    ABOUT_MSG = """⭕️<b>My Name : രവി പദ്മനാഭൻ 🔥⚡</b>
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
-
-
-<b>Filter Commands;</b>
-
-<code>/add name reply</code>  -  Add filter for name
-
-<code>/del name</code>  -  Delete filter
-
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
-
-<code>/viewfilters</code>  -  List all filters in chat
-
-
-<b>Connection Commands;</b>
-
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
-
-<code>/connections</code>  -  Manage your connections.
-
-
-<b>Extras;</b>
-
-/status  -  Shows current status of your bot (Auth User Only)
-
-/id  -  Shows ID information
-
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-
-
-<b>© @TroJanzHEX</b>
-"""
-
-
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
-
-⭕️<b>Creater :</b> @TroJanzHEX    
-
-⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
+⭕️<b>എന്നെ കുറിച്ച് ആരും കൂടുതൽ അരിയുന്നെ എനിക് ഇഷ്ടമല്ല 😈</b>
 """
